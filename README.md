@@ -1,1 +1,1 @@
-git@github.com:PolinaAlexP/ono-tebe-nado.git
+https://github.com/PolinaAlexP/ono-tebe-nado.git
